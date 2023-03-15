@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Omar 👋💻
 
 I am a problem-solving and detail-oriented developer, specialist in Frontend development with 6+ years of experience and a long-standing passion for building applications that creates unique and engaging user experiences.
 
