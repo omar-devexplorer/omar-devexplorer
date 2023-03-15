@@ -5,7 +5,7 @@ I am a problem-solving and detail-oriented developer, specialist in Frontend dev
 I enjoy exploring and learning programming languages, frameworks and tech in general, creating development and design content and engage in the community to help other devs.
 
 ## Skills and Experience
-### Frontend
+### Frontend and Mobile
 * Qwik
 * Angular
 * AngularJS
@@ -14,10 +14,10 @@ I enjoy exploring and learning programming languages, frameworks and tech in gen
 * HTML
 * CSS, SCSS
 * RxJs
+* PWA
+* Ionic
 ### Backend
 * Nodejs
-### Mobile
-* Ionic
 ### DevOps, Could, Db, APIs and Tools
 * GCP
 * Firebase
@@ -26,7 +26,6 @@ I enjoy exploring and learning programming languages, frameworks and tech in gen
 * GraphQL
 * Git Actions
 * Tailwind CSS
-* PWA
 * Angular Material
 * Ag-grid
 * Greensock
