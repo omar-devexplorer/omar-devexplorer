@@ -19,7 +19,7 @@ I enjoy exploring and learning programming languages, frameworks and tech in gen
 ### Backend
 * Nodejs
 ### DevOps, Could, Db, APIs and Tools
-* GCP, Firebase, MongoDb, MySQL, GraphQL, Git Actions, Tailwind CSS, Angular Material, Ag-grid, Greensock, ThreeJS, am4charts, Echarts, MomentJs, Google Maps, Mapbox, Twillio, Strip, Mercado Pago, ffmpeg, Airtable...
+* GCP, Firebase, MongoDb, MySQL, GraphQL, Git Actions, Angular Material, Tailwind CSS, BEM CSS, Ag-grid, Greensock, ThreeJS, am4charts, Echarts, MomentJs, Google Maps, Mapbox, Twillio, Strip, Mercado Pago, ffmpeg, Airtable...
 
 ### I'm learning
 * React
