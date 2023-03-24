@@ -2,7 +2,7 @@
 
 I am a problem-solving and detail-oriented developer, specialist in Frontend development with 6+ years of experience and a long-standing passion for building applications that creates unique and engaging user experiences.
 
-I enjoy exploring and learning programming languages, frameworks and tech in general, creating development and design content and engage in the community.
+I enjoy exploring and learning programming languages, frameworks and tech in general, creating development and design content, and engaging in the community.
 
 ## Skills and Experience 🚀
 ### Frontend and Mobile
