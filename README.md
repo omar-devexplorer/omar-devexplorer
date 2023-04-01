@@ -27,4 +27,3 @@ I enjoy exploring and learning programming languages, frameworks and tech in gen
 * SolidJS
 * Rust
 * AWS
-
