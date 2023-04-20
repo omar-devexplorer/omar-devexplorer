@@ -25,3 +25,4 @@ I enjoy exploring and learning programming languages, frameworks and tech in gen
 * React
 * Svelte
 * Rust
+* Go
