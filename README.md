@@ -25,6 +25,7 @@ I enjoy exploring and learning programming languages, frameworks and tech in gen
 
 ### I'm learning
 * React
+* NextJS
 * Svelte
 * Vue
 * Rust
