@@ -8,7 +8,8 @@ I enjoy exploring and learning programming languages, frameworks and tech in gen
 ### Frontend and Mobile
 * Qwik
 * Angular
-* AngularJS
+* React
+* NextJS
 * Typescript
 * Javascript
 * HTML
@@ -24,8 +25,6 @@ I enjoy exploring and learning programming languages, frameworks and tech in gen
 * GCP, Firebase, AWS, MongoDb, MySQL, PostgreSQL, GraphQL, Git Actions, Angular Material, Tailwind CSS, BEM CSS, Ag-grid, Greensock, ThreeJS, D3.js am4charts, Echarts, MomentJs, Google Maps, Mapbox, Twillio, Strip, Mercado Pago, ffmpeg, Airtable, Figma, Adobe XD.
 
 ### I'm learning
-* React
-* NextJS
 * Svelte
 * Vue
 * Rust
