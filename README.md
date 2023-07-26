@@ -1,8 +1,6 @@
 ### Hi there, I'm Omar 👋🧑‍💻
 
-I am a problem-solving and detail-oriented developer, specialist in Frontend development, with 6+ years of experience and a long-standing passion for building high-quality applications that creates unique and engaging user experiences.
-
-I enjoy exploring and learning programming languages, frameworks and tech in general, creating development and design content, and interacting with the community.
+Fullstack Developer with 6+ years of experience in different market segments and companies sizes. I am a problem-solving and detail-oriented developer and I have passion for building high-quality applications to create unique and engaging user experiences. I have had the opportunity to contribute to many challenging projects with different methodologies and diverse technologies.
 
 ## Skills and Experience 🚀
 ### Frontend and Mobile
