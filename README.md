@@ -8,6 +8,7 @@ Fullstack Developer with 6+ years of experience in different market segments and
 * Angular
 * React
 * NextJS
+* Svelte
 * Typescript
 * Javascript
 * HTML
@@ -23,7 +24,6 @@ Fullstack Developer with 6+ years of experience in different market segments and
 * GCP, Firebase, AWS, MongoDb, MySQL, PostgreSQL, GraphQL, Github, Github Actions, Bitbucket, Angular Material, Tailwind CSS, BEM CSS, Ag-grid, Greensock, ThreeJS, D3.js am4charts, Echarts, MomentJs, Google Maps, Mapbox, Twillio, Strip, Mercado Pago, ffmpeg, Airtable, Figma, Adobe XD.
 
 ### I'm learning
-* Svelte
 * Vue
 * Rust
 * Go
