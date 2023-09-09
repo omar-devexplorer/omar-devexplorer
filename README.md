@@ -8,6 +8,7 @@ Fullstack Developer with 6+ years of experience in different market segments and
 * Angular
 * React
 * NextJS
+* Remix
 * Svelte
 * Typescript
 * Javascript
