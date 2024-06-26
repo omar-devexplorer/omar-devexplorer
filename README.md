@@ -17,6 +17,8 @@ Fullstack Developer with 8+ years of experience in different market segments and
 * RxJs
 * PWA
 * Ionic
+* Micro-frontend
+  
 ### Backend
 * Nodejs
 * Deno
