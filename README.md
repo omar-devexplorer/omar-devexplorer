@@ -22,6 +22,7 @@ Fullstack Developer with 8+ years of experience in different market segments and
 ### Backend
 * Nodejs
 * Deno
+* Rust
 
 ### DevOps, Could, Db, APIs and Tools
 * GCP, Firebase, AWS, MongoDb, MySQL, PostgreSQL, GraphQL, Github, Github Actions, Bitbucket, Angular Material, Tailwind CSS, BEM CSS, Ag-grid, Greensock, ThreeJS, D3.js am4charts, Echarts, MomentJs, Google Maps, Mapbox, Twillio, Strip, Mercado Pago, ffmpeg, Airtable, Figma, Adobe XD.
@@ -30,4 +31,4 @@ Fullstack Developer with 8+ years of experience in different market segments and
 * C#
 * Java
 * Go
-* Rust
+
