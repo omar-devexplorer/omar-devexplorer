@@ -10,6 +10,7 @@ Fullstack Developer with 8+ years of experience in different market segments and
 * Remix
 * Qwik
 * Svelte
+* Solid
 * Typescript
 * Javascript
 * HTML
